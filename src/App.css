@@ -6,9 +6,3 @@
 html body {
   min-height: 100vh;
 }
-
-.mainPage {
-  display: flex;
-  flex-direction: column;
-  padding-top: 10px;
-}
