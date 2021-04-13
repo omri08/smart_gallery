@@ -1,5 +1,6 @@
 import React from "react";
-import { Header, Card } from "./components";
+import { Header } from "./components";
+import MainPage from "./pages/MainPage";
 import "./App.css";
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
     <div className="App">
       <div className="mainPage">
         <Header />
-        <Card />
+        <MainPage />
       </div>
     </div>
   );
